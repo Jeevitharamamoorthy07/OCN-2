@@ -82,5 +82,5 @@ Key points:
 ---
 
 ## RESULT
-- The VI characteristics of the fiber optic LED and LASER were studied.  
+- The VI characteristics of the fiber optic LED and LASER were studied. 
 
